@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatTreeViewExample", "FlatTreeViewExample.csproj", "{EBCFB3D0-F2DF-4A99-BE97-9BFF6817ADBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCFB3D0-F2DF-4A99-BE97-9BFF6817ADBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCFB3D0-F2DF-4A99-BE97-9BFF6817ADBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCFB3D0-F2DF-4A99-BE97-9BFF6817ADBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCFB3D0-F2DF-4A99-BE97-9BFF6817ADBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56553896-5DF9-4021-8C81-2CB36241EFD0}
+	EndGlobalSection
+EndGlobal
